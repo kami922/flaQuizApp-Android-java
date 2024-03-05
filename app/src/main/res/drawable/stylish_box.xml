@@ -1,0 +1,7 @@
+<!-- res/drawable/stylish_box.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF"/> <!-- Light purple color -->
+    <corners android:radius="24dp"/> <!-- Increased radius for a larger box -->
+    <stroke android:color="#000000" android:width="2dp"/> <!-- Border color and width -->
+    <padding android:left="16dp" android:top="100dp" android:right="16dp" android:bottom="100dp"/> <!-- Padding from all sides -->
+</shape>
